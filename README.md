@@ -1,8 +1,17 @@
-Made using technologies: html, python, flask, SQLAlchemy(For database)
+#Login & Register API (Flask)
 
-Check requirements.txt for all libraries and components used for this project
+##*Made using technologies: html, python, flask, SQLAlchemy(For database)*
 
-Using command line install using: pip install -r requirements.txt
+##Check requirements.txt for all libraries and components used for this project 
 
-To Run the project: python3 app.py
-Open the localhost port in your web browser.
+######Using command line install using:
+```
+pip install -r requirements.txt
+```
+
+######To Run the project:
+```
+python3 app.py
+```
+
+*Open the localhost port in your web browser.*
