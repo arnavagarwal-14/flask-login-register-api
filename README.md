@@ -1,6 +1,6 @@
 # Login & Register API (Flask)
 
-## *Made using technologies: html, python, flask, SQLAlchemy(For database)*
+## **Made using technologies: html, python, flask, SQLAlchemy(For database)**
 
 ## Check requirements.txt for all libraries and components used for this project 
 
@@ -14,4 +14,4 @@ pip install -r requirements.txt
 python3 app.py
 ```
 
-*Open the localhost port in your web browser.*
+**Open the localhost port in your web browser.**
