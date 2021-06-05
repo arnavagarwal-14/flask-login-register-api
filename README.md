@@ -6,7 +6,7 @@
 
 ###### Using command line install using:
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ###### To Run the project:
